@@ -1,0 +1,26 @@
+{
+  "name": "proxy-daryl",
+  "version": "1.0.0",
+  "description": "proxy server",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-nomad/PROXY-DARYL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/project-nomad/PROXY-DARYL/issues"
+  },
+  "homepage": "https://github.com/project-nomad/PROXY-DARYL#readme"
+}
