@@ -1,0 +1,28 @@
+.entire {
+  position: relative;
+  height:100%;
+  width: 100%;
+
+}
+
+.top{
+
+}
+
+.right{
+  right:0;
+  overflow-y: scroll;
+  float: right;
+  height:400px;
+  width: 400px;
+  margin-right: 250px;
+
+}
+
+.left{
+  left:0;
+  float:left;
+  height:400px;
+  width: 400px;
+  margin-left: 250px;
+}
